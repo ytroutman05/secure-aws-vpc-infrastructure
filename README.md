@@ -10,7 +10,7 @@ The architecture separates internet-facing resources from private application re
 
 ## Architecture
 
-![Secure AWS VPC Architecture](architecture/15-vpc-architecture.png)
+![Secure AWS VPC Architecture](architecture/15-vpc-architecture.jpeg)
 
 ## Architecture Design
 
